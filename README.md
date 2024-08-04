@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ua2BayHey
-- 👀 I’m interested in ... Software Engineering 
-- 🌱 I’m currently learning ... Fundamentals of Web Development
+- 👋 Hi, I’m @Kookia
+- 👀 I’m interested in ... E-Commerce Adviser 
+- 🌱 E-commerce Adviser SaaS with AI integration
 - 💞️ I’m looking to collaborate on ... Unsure yet
-- 📫 How to reach me ... I will reach you🤝
+- 📫 How to reach me ... vladigerassi@gmail.com🤝
 
 <!---
 Ua2BayHey/Ua2BayHey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
